@@ -6,6 +6,6 @@ for num in numbers:
     
 # while loop
 x = 5
-while x > 0  2 == 0:
+while x > 0:
     print(f"{x} is even")
     x -=1
